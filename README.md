@@ -1,0 +1,2 @@
+# awesome-cursor
+test
